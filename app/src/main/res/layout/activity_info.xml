@@ -49,7 +49,7 @@
         android:textColor="?android:attr/actionMenuTextColor"
         android:textSize="18sp"
         android:clickable="true"
-        android:onClick="CreatePhoneIntent"
+        android:onClick="createPhoneIntent"
         app:layout_constraintLeft_toLeftOf="@+id/text_view_address"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/image_view_map" />
